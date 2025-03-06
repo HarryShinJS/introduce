@@ -2,8 +2,10 @@
 
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&text=Hello%World!" />
 </div>
+
+<br>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
